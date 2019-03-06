@@ -1,0 +1,4 @@
+jupyter==1.0.0
+mplleaflet==0.0.5
+numpy==1.16.1
+pandas==0.24.1
